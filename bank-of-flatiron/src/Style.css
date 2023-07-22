@@ -1,5 +1,6 @@
 body{
-    background-image: url('https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/05/getty_chase_bank_promotions.jpeg');
+    /* background-image; */
+    background-color: antiquewhite;
     background-size: cover;
     filter:brightness(40%);
 }
